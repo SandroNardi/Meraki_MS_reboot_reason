@@ -1,4 +1,4 @@
-# Switch reboot
+# Switch reboot logs
 
 ## Disclaimer
 
