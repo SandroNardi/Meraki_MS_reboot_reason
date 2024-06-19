@@ -4,7 +4,7 @@
 
 The content provided is for inspiration and educational purposes only, not for production use. It is an example to spark ideas, not optimized for real-world environments. Use it as a starting point, but review and test thoroughly before considering it for live applications.
 
-### Description
+## Description
 
 The script scope all Meraki Oraganization and Network to check boot events in the event log for the switches and returne the list of events with the reason
 
